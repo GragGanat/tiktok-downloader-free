@@ -29,5 +29,5 @@
 - [x] Test end-to-end download flow
 - [x] Verify mobile responsiveness
 - [x] Test error scenarios (invalid URLs, network errors)
-- [ ] Create deployment guide for free hosting (Render, Railway, Vercel)
-- [ ] Document setup and usage instructions
+- [x] Create deployment guide for free hosting (Render, Railway, Vercel)
+- [x] Document setup and usage instructions
